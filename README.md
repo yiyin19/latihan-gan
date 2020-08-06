@@ -1,4 +1,4 @@
-    <h2>KALKULATOR SEDERHANA</h2>
+   KALKULATOR SEDERHANA
         <form method= "POST" action=""><!--memberi method-->
             Bilangan 1
             <br> 
