@@ -16,12 +16,12 @@ KALKULATOR SEDERHANA
             </form>
     </nav>
  
-  __Hasil penjumlahan adalah:__
+  Hasil penjumlahan adalah:
   
-  __Hasil pengurangan adalah:__
+  Hasil pengurangan adalah:
   
-  __Hasil perkalian adalah:__
+  Hasil perkalian adalah:
   
-  __Hasil pembagian adalah:__
+  Hasil pembagian adalah:
 
 Selamat Menghitung :)
