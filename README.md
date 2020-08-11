@@ -16,6 +16,7 @@ Kalkulator ini berfungsi untuk menjumlahkan, mengurangi, mengalikan, dan membagi
             </form>
   ### Untuk mengaktifkan fungsi aritmatika masukkan kode php berikut.
   Variable $bil1 dan $bil2 bisa diganti sesuka hati tetapi harus sesuai dengan name pada kode form diatas.
+          
           <?php
             $bil1 =$_POST['bil1'];//memberi variabel pada bilangan 1
             $bil2 =$_POST['bil2'];//memberi variabel pada bilangan 2
